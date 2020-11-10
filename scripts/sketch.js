@@ -1,5 +1,3 @@
-/* The Game Project */
-
 var character = {
     x: 200,
     y: 0
